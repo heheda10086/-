@@ -8,3 +8,5 @@ git add 空格 点 上传所有
 git status 查看状态
 git commit -m“注释内容”
 git push 上传完成
+
+test
