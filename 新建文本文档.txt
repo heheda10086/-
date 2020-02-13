@@ -1,5 +1,8 @@
 第一次登陆需要
-git add 粘贴 网站上的地址
+cd ..
+cd /
+cd +space
+git clone shift insert 网站上的地址
 
 git add 空格 点 上传所有
 git status 查看状态
